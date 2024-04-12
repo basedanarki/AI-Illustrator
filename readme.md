@@ -1,5 +1,8 @@
 🎨 AI Illustrator: Effortless Art for Everyone, Powered by Joywrite 🚀
 ==========================================================================
+[👍Follow @BasedAnarki on 𝕏](https://twitter.com/BasedAnarki)    
+
+ [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
 
 AI Illustrator is an open-source tool that harnesses artificial intelligence to generate stunning, customized illustrations for your content.
 
@@ -93,25 +96,6 @@ We believe in the power of collaboration and open-source innovation. If you're p
 - Improve/develop better, even extended+nuanced, prompting especially Stable Diffusion.
   - I have found options to be tested soon and will assuredly identify one that's more useful than current "Best of Reddit + I tested non-exhaustively and LGTM" SD prompt.
 
-## 📧 Contact
-
-Don't be shy about any questions, suggestions, interesting ideas, collaborations, or opportunities for us to deliver on your desires and get paid handsomely! 👍
-
-### Anarki (Project Maintainer)
-- [@BasedAnarki](https://twitter.com/BasedAnarki)
-
-### Joywrite (Join the Elite)
-- [@Joywriteai](https://twitter.com/Joywriteai)
-- 📧 [enterprise@joywrite.ai](mailto:enterprise@joywrite.ai) 
-- 🌐 https://joywrite.ai
-
-Are you ready to join the ranks of the most successful, forward-thinking enterprise leaders? Take the first step towards dominating your industry – create your free Joywrite account now and glimpse what optimizing for enthusiastic discovery accelerated by A.S.I. will look like for your organization tomorrow while actualizing what's possible with AI-driven organic content domination today.
-
-🔒 Exclusive Invitation: Apply for our [Enterprise Pilot Program](https://joywrite.ai/motivated-pilot-application) and gain access to cutting-edge features, personalized onboarding, and white-glove support. Limited spots available – don't miss your chance to lead the pack!  (That link will "just work" once you're signed in to your free account.) 🚀
-
-### Don't miss
-- [@arXivBangers](https://twitter.com/arXivBangers) (*Releasing Soon!*)
-
 ## 😅 Limitations
 
 - The Stable Diffusion prompt generator is not ideal. I expect this is the primary and perhaps only opportunity area to multiply bullseye-hittingness of otherwise optimized individual image types and overall "winrate %" of each batch generated.
@@ -129,4 +113,26 @@ We would like to express our gratitude to the following organizations and indivi
 
 This project is licensed under the [MIT License](https://github.com/basedanarki/ai_illustrator/blob/main/LICENSE).
 
+## 📧 Contact
+
+Don't be shy about any questions, suggestions, interesting ideas, collaborations, or opportunities for us to deliver on your desires and get paid handsomely! 👍
+
+### Anarki (Project Maintainer)
+- [@BasedAnarki](https://twitter.com/BasedAnarki)
+- Project link: https://github.com/basedanarki/AI-Illustrator
+
+### Joywrite (Join the Elite)
+- [@Joywriteai](https://twitter.com/Joywriteai)
+- 📧 [enterprise@joywrite.ai](mailto:enterprise@joywrite.ai) 
+- 🌐 https://joywrite.ai
+
+Are you ready to join the ranks of the most successful, forward-thinking enterprise leaders? Take the first step towards dominating your industry – create your free Joywrite account now and glimpse what optimizing for enthusiastic discovery accelerated by A.S.I. will look like for your organization tomorrow while actualizing what's possible with AI-driven organic content domination today.
+
+🔒 Exclusive Invitation: Apply for our [Enterprise Pilot Program](https://joywrite.ai/motivated-pilot-application) and gain access to cutting-edge features, personalized onboarding, and white-glove support. Limited spots available – don't miss your chance to lead the pack!  (That link will "just work" once you're signed in to your free account.) 🚀
+
+### Don't miss
+- [@arXivBangers](https://twitter.com/arXivBangers) (*Releasing Soon!*)
+
 Let's unleash the power of AI-generated artwork together and redefine the boundaries of creative expression! 🎨✨
+
+[👍Follow @BasedAnarki on 𝕏](https://twitter.com/BasedAnarki)    
