@@ -60,12 +60,14 @@ key
   - TBH I had never done negative prompting in MJ... results are pretty sweet!
 
 ## Getting Started
-
+ [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
 1. Clone the AI Illustrator repository: `git clone https://github.com/basedanarki/AI-Illustrator.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Set up your API keys for Anthropic and Stability AI (instructions in the notebook)
 4. Launch the AI Illustrator notebook in Google Colab or Jupyter Notebook
 5. Input your content, customize your preferences, and let AI Illustrator work its magic! 🪄
+
+
 
 ## Customizations
 
