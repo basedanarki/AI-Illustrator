@@ -8,6 +8,24 @@ AI Illustrator is an open-source tool that harnesses artificial intelligence to 
 
 Whether you're a blogger, marketer, stay-at-home parent, or C-suite visionary, AI Illustrator empowers you to bring your ideas to life with unparalleled ease and creativity. 🌟
 
+## Getting Started
+ [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
+1. Clone the AI Illustrator repository: `git clone https://github.com/basedanarki/AI-Illustrator.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Set up your API keys for Anthropic and Stability AI (instructions in the notebook)
+4. Launch the AI Illustrator notebook in Google Colab or Jupyter Notebook
+5. Input your content, customize your preferences, and let AI Illustrator work its magic! 🪄
+
+## Customizations
+
+Instructions on optimizing for:
+- Speed
+- Savings
+- Personal satisfaction with AI Illustrator's overall performance
+- **Saving any beloved configurations you discover, such as visual styles for recurring/similar content!** 
+
+and more are nearby the appropriate steps in the notebook.
+
 ## 💬 What They're Saying (An Atypical Overview)
 
 > "Anarki is like a combination of Sun Tzu, Andy Warhol, and Steve Jobs, if the blended being they formed was an inescapably irreverent, authentically autist internet anon hell-bent on exploring the limits of generational AI's usefulness across vectors that improve the human, and corporation, condition."
@@ -54,30 +72,10 @@ key
 - 📈 Irresistable visual content to boost your SEO rankings and drive unparalleled traffic to your site
 - 🚀 Powered by cutting-edge AI technologies from Anthropic and Stability AI
 
-### Bonus Feature: "World-First Compliant + Useful Midjourney Extension" 
-- 🔮 Copypasta Midjourney prompt included with each illustration as Midjourney UI is Discord-only (No API)
+### Bonus Feature: Compliant Midjourney Near-API 
+- 🔮 Copy/paste Midjourney prompt included with each illustration as Midjourney UI is Discord-only (No API)
   - "When you know...something would be fire in MJ... you know" - and if you don't, you should try it sometime! (Weebs: Try adding "--niji 6")
   - TBH I had never done negative prompting in MJ... results are pretty sweet!
-
-## Getting Started
- [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
-1. Clone the AI Illustrator repository: `git clone https://github.com/basedanarki/AI-Illustrator.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Set up your API keys for Anthropic and Stability AI (instructions in the notebook)
-4. Launch the AI Illustrator notebook in Google Colab or Jupyter Notebook
-5. Input your content, customize your preferences, and let AI Illustrator work its magic! 🪄
-
-
-
-## Customizations
-
-Instructions on optimizing for:
-- Speed
-- Savings
-- Personal satisfaction with AI Illustrator's overall performance
-- **Saving any beloved configurations you discover, especially for recurring/similar content!** 
-
-and more are nearby the appropriate steps in the notebook.
 
 ## 🤝 Contributing
 
