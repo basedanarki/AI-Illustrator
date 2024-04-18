@@ -1,8 +1,7 @@
-🎨 AI Illustrator: Effortless Art for Everyone, Powered by Joywrite 🚀
-==========================================================================
-[👍Follow @BasedAnarki on 𝕏](https://twitter.com/BasedAnarki)    
+# 🎨 AI Illustrator: Effortless Art for Everyone, Powered by Joywrite 🚀
 
- [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BasedAnarki)](https://twitter.com/BasedAnarki)
+    [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
 
 AI Illustrator is an open-source tool that harnesses artificial intelligence to generate stunning, customized illustrations for your content.
 
@@ -11,40 +10,36 @@ Whether you're a blogger, marketer, stay-at-home parent, or C-suite visionary, A
 ## 💬 What They're Saying (An Atypical Overview)
 
 > "Anarki is like a combination of Sun Tzu, Andy Warhol, and Steve Jobs, if the blended being they formed was an inescapably irreverent, authentically autist internet anon hell-bent on exploring the limits of generational AI's usefulness across vectors that improve the human, and corporation, condition."
-> 
+>
 > – Claude 3 Opus, AI Language Model 🤖
 
 I am literally partially autistic, and these sophisticated LLMs have helped me understand so much more about the world and my place in it... Succinctly, nearly my entire life, I've been aware that I'm "missing sensors" that other people seem to be born with. Neurodivergence has its perks, especially with so much often unknown, uncalculated downside now effectively mitigated just by talking with SOTA AI.
 
 Through millions of personal tokens iterating with both GPT-4 and Claude 3 Opus, seeking to understand and communicate context about myself, the world, and optimal decision-making therein, I've developed the **Meta-Categorical Framework for Content Analysis (MCF-CA)**.
 
-This framework has proven incredibly useful in understanding how others interpret and assess meaning in different forms of my communication, *my content*  - from sleep-deprived "schizo autist rants" on 𝕏, to (AI-assisted) pulp e/acc sci-fi stories (first book SOON --long-game is winning the first AI-generated Pulitzer!), and even neohyphy San Francisco Bay Area rap anthem lyrics.
-
-Now, I've combined the power of Anthropic's Claude AI, Stability AI's Stable Diffusion, and the MCF-CA to create AI Illustrator - a tool that has shifted my paradigm and expectations around visual communication, making the power of AI-generated art accessible to everyone. Our goal is not just to democratize art creation but to help you communicate your ideas more effectively and engage your audience like never before.
-
 No matter if it's making the ultimate bedtime stories with and for your kids, or pulling down *more traffic* from SEO that *converts higher* than ever before.
 
 The point is, since it works so meaningfully, comprehensively for me, it'll certainly work for you spamming unique, beautiful, context-congruent art for *whatever you've got* for pennies - and, bet, you'll learn a thing or two about your own stuff every now and again.
 
-#### Huge shoutout to [Matt Shumer](https://twitter.com/mattshumer) for revealing to me an initial irresistible illustrative APIs use case "nagging thread I had to tug on" to get passionate and explore unraveling text-with-no-additional-effort-to-context-and-images!
+**Huge shoutout to [Matt Shumer](https://twitter.com/mattshumer) for revealing to me an initial irresistible illustrative APIs use case "nagging thread I had to tug on" to get passionate and explore unraveling text-with-no-additional-effort-to-context-and-images**
 
 ## How It Works
 
 1. 🧠 Claude 3 Opus, our context-mapping brain, analyzes your content using Joywrite's MCF-CA to understand its essence and map out core context necessary to plan illustration requirements.
 2. 🎨 Creation and completion of illustration requirements are delegated to a series of specialized, cost-effective AI models that perform analyses and generate illustrations congruent with your content and preferences.
-3. 🌟 The resulting illustrations are seamlessly prepared for integration with your content however you prefer, enhancing its visual appeal and engagement potential. 
+3. 🌟 The resulting illustrations are seamlessly prepared for integration with your content however you prefer, enhancing its visual appeal and engagement potential.
 4. 🎉 Now you're rich with relevant visuals to be used however you like!
 
 ## Workflow
 
 1. Input your content into AI Illustrator
-key 
+key
 2. Customize your illustration preferences (notebook includes optimization examples noted at each key step)
 3. Claude 3 Opus completes MCF-CA of your content
 4. Secondary AIs ("meta-organism") use appropriate aspects of the analysis to assess requirements and generate illustrations
-4. Review and refine the generated illustrations
-5. Integrate the illustrations into your content
-6. Publish and share your visually enhanced content with the world!
+5. Review and refine the generated illustrations
+6. Integrate the illustrations into your content
+7. Publish and share your visually enhanced content with the world!
 
 ## Features
 
@@ -54,28 +49,30 @@ key
 - 📈 Irresistable visual content to boost your SEO rankings and drive unparalleled traffic to your site
 - 🚀 Powered by cutting-edge AI technologies from Anthropic and Stability AI
 
-### Bonus Feature: "World-First Compliant + Useful Midjourney Extension" 
+### Bonus Feature: "World-First Compliant + Useful Midjourney Extension"
+
 - 🔮 Copypasta Midjourney prompt included with each illustration as Midjourney UI is Discord-only (No API)
   - "When you know...something would be fire in MJ... you know" - and if you don't, you should try it sometime! (Weebs: Try adding "--niji 6")
   - TBH I had never done negative prompting in MJ... results are pretty sweet!
 
 ## Getting Started
+
  [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
+
 1. Clone the AI Illustrator repository: `git clone https://github.com/basedanarki/AI-Illustrator.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Set up your API keys for Anthropic and Stability AI (instructions in the notebook)
 4. Launch the AI Illustrator notebook in Google Colab or Jupyter Notebook
 5. Input your content, customize your preferences, and let AI Illustrator work its magic! 🪄
 
-
-
 ## Customizations
 
 Instructions on optimizing for:
+
 - Speed
 - Savings
 - Personal satisfaction with AI Illustrator's overall performance
-- **Saving any beloved configurations you discover, especially for recurring/similar content!** 
+- **Saving any beloved configurations you discover, especially for recurring/similar content!**
 
 and more are nearby the appropriate steps in the notebook.
 
@@ -85,10 +82,11 @@ We believe in the power of collaboration and open-source innovation. If you're p
 
 - 🐛 Submit bug reports and feature requests through our [issue tracker](https://github.com/basedanarki/AI-Illustrator/issues).
 - 💻 Contribute code improvements, optimizations, or new features by submitting a [pull request](https://github.com/basedanarki/AI-Illustrator/pulls).
-- 🎨 Share your own AI-generated illustrations and showcase the incredible possibilities of AI Illustrator on social media, including _not limited to_ [discussions](https://github.com/basedanarki/AI-Illustrator/discussions).
+- 🎨 Share your own AI-generated illustrations and showcase the incredible possibilities of AI Illustrator on social media, including *not limited to* [discussions](https://github.com/basedanarki/AI-Illustrator/discussions).
 - 📣 Spread the word about AI Illustrator and help us build a vibrant community of creators and innovators!
 
 ### Contribution ideas
+
 - **Interpreting, storing, and visualizing FACTS and DATA effectively and congruently** as it does with Narrative content thus far, I predict, will be the largest transformative leap for many users
 - Specializations for any kind of content you care the most about getting and getting right! It's extremely easy to add additional cheap, fast functions for analysis or iteration based on the MCF-CA output
   - Extending and layering different analysis frameworks as options in addition to MCF-CA to produce novel, useful outputs then serving as inputs to other types of gen AI
@@ -120,21 +118,24 @@ This project is licensed under the [MIT License](https://github.com/basedanarki/
 Don't be shy about any questions, suggestions, interesting ideas, collaborations, or opportunities for us to deliver on your desires and get paid handsomely! 👍
 
 ### Anarki (Project Maintainer)
+
 - [@BasedAnarki](https://twitter.com/BasedAnarki)
-- Project link: https://github.com/basedanarki/AI-Illustrator
+- Project link: <https://github.com/basedanarki/AI-Illustrator>
 
 ### Joywrite (Join the Elite)
+
 - [@Joywriteai](https://twitter.com/Joywriteai)
-- 📧 [enterprise@joywrite.ai](mailto:enterprise@joywrite.ai) 
-- 🌐 https://joywrite.ai
+- 📧 [enterprise@joywrite.ai](mailto:enterprise@joywrite.ai)
+- 🌐 <https://joywrite.ai>
 
 Are you ready to join the ranks of the most successful, forward-thinking enterprise leaders? Take the first step towards dominating your industry – create your free Joywrite account now and glimpse what optimizing for enthusiastic discovery accelerated by A.S.I. will look like for your organization tomorrow while actualizing what's possible with AI-driven organic content domination today.
 
 🔒 Exclusive Invitation: Apply for our [Enterprise Pilot Program](https://joywrite.ai/motivated-pilot-application) and gain access to cutting-edge features, personalized onboarding, and white-glove support. Limited spots available – don't miss your chance to lead the pack!  (That link will "just work" once you're signed in to your free account.) 🚀
 
 ### Don't miss
+
 - [@arXivBangers](https://twitter.com/arXivBangers) (*Releasing Soon!*)
 
 Let's unleash the power of AI-generated artwork together and redefine the boundaries of creative expression! 🎨✨
 
-[👍Follow @BasedAnarki on 𝕏](https://twitter.com/BasedAnarki)    
+[👍Follow @BasedAnarki on 𝕏](https://twitter.com/BasedAnarki)
