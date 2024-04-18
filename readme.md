@@ -1,7 +1,9 @@
 # 🎨 AI Illustrator: Effortless Art for Everyone 🚀
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BasedAnarki)](https://twitter.com/BasedAnarki)
-    [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
+[![X (formerly Twitter) Follow @BasedAnarki](https://img.shields.io/twitter/follow/BasedAnarki)](https://twitter.com/BasedAnarki) 
+ [![Open Main Version In Colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/basedanarki/AI-Illustrator/blob/master/claude_illustrator.ipynb)
+
+## Powered by Joywrite
 
 Everybody's got content. Not all content has art. Until now.
 
@@ -31,7 +33,7 @@ No matter if it's making the ultimate bedtime stories with/for your kids, or pul
 
 The MCF-CA works so meaningfully for me where it counts, it'll certainly work for you spamming unique, beautiful, context-congruent art for *whatever content you've got* for pennies - and, bet, you'll gain a useful insight or two about your own content every so often.
 
-**Huge shoutout to [Matt Shumer](https://twitter.com/mattshumer) for revealing to me an initial irresistible illustrative APIs use case "nagging thread I had to tug on" to get passionate and explore unraveling text-with-no-additional-effort-to-context-and-images**
+**Huge shoutout to [Matt Shumer](https://twitter.com/mattshumer_) for revealing to me an initial irresistible illustrative APIs use case "nagging thread I had to tug on" to get passionate and explore unraveling text-with-no-additional-effort-to-context-and-images**
 
 ## How It Works
 
@@ -66,7 +68,6 @@ The MCF-CA works so meaningfully for me where it counts, it'll certainly work fo
 - 80/20 MJ Optimizations:
   - [Stylize](https://docs.midjourney.com/docs/stylize) is the most useful knob if the MJ generation is almost perfect. Try adding "--stylize 250" (or 500 or 750 or 50 or 0) to see radical differences visualizing similar things.
   - Weebs et al: Try adding "--niji 6" to the end of your prompt for a modern anime style
-  - [More MJ Tips](https://docs.midjourney.com/docs/tips)
 
 ## 🤝 Contributing
 
@@ -101,9 +102,9 @@ We would like to express our gratitude to the following organizations and indivi
 - [Stability AI](https://stability.ai/) for their powerful Stable Diffusion text-to-image AI API.
 - The [open-source](http://www.opensource.org/) community for their continuous support, feedback, and contributions. Our progress relies heavily on the foundational contributions of open pioneers.
 
-### Don't miss
+### Releasing soon!
 
-- [@arXivBangers](https://twitter.com/arXivBangers) (*Releasing Soon!*)
+[![X (formerly Twitter) Follow @arXivBangers](https://img.shields.io/twitter/follow/arXivBangers)](https://twitter.com/arXivBangers)
 
 ## License
 
@@ -111,14 +112,22 @@ This project is licensed under the [MIT License](https://github.com/basedanarki/
 
 ## 📧 Contact
 
-Don't be shy about any questions, suggestions, interesting ideas, collaborations, or opportunities for us to deliver on your desires and get paid handsomely! 👍
+Don't be shy about any questions, suggestions, interesting ideas, collaborations, or opportunities for us to deliver on your desires, profitably! 👍
 
 ### Anarki (Project Maintainer)
 
-- [@BasedAnarki](https://twitter.com/BasedAnarki)
-- Project link: <https://github.com/basedanarki/AI-Illustrator>
+[![X (formerly Twitter) Follow @BasedAnarki](https://img.shields.io/twitter/follow/BasedAnarki)](https://twitter.com/BasedAnarki) 
 
-### Joywrite (Join the Elite)
+[![GitHub followers @basedanarki](https://img.shields.io/github/followers/BasedAnarki)](https://github.com/basedanarki) 
+
+
+Contact me: [@BasedAnarki](https://twitter.com/BasedAnarki)
+
+Project link: <https://github.com/basedanarki/AI-Illustrator>
+
+[![GitHub stars](https://img.shields.io/github/stars/basedanarki/AI-Illustrator)](https://github.com/basedanarki/AI-Illustrator)
+
+### Joywrite (Join the Elite) 
 
 - [@Joywriteai](https://twitter.com/Joywriteai)
 - 📧 [enterprise@joywrite.ai](mailto:enterprise@joywrite.ai)
