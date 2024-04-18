@@ -7,6 +7,8 @@
 
 Everybody's got content. Not all content has art. Until now.
 
+![FAQ and Examples video gif](https://github.com/basedanarki/AI-Illustrator/assets/161698650/8e13ffd6-4cf8-4660-a9cc-480f36126ac7)
+
 AI Illustrator is an open-source tool that harnesses best-in-class generative AI integrations for brilliance, speed, and savings where each matters most to generate stunning, customized illustrations for your content. Whether you're a blogger, marketer, stay-at-home parent, or C-suite visionary, AI Illustrator empowers you to bring your ideas to life with unparalleled ease and creativity. 🌟
 
 ## Getting Started
@@ -17,7 +19,7 @@ AI Illustrator is an open-source tool that harnesses best-in-class generative AI
 
 Be sure to learn how to save your preferences and set customizaitons with examples in the notebook at each step to maximize your speed, savings and overall joy. 
 
-**If you save your initial "illustration team" preferences, you will struggle to spend your first $4 across multiple fully illustrated articles, short stories, and a music video or two.** (600+ illustrations, 367mb, still under $6 into this version)
+**If you save your initial "illustration team" preferences, you will struggle to spend your first $4 across multiple fully illustrated articles, short stories, and a music video or two.** 600+ illustrations, 367mb, still under $6 into this version.
 
 ## 💬 What They're Saying (An Atypical Overview)
 
